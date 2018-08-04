@@ -1,8 +1,8 @@
 # Demo: http://bit.ly/hitechbot
 
 # Usage
-wiki WhatsApp
-wiki Artificial Intelligence
+- wiki WhatsApp
+- wiki Artificial Intelligence
 
 # Wikipedia API webhook in Python
 This is a  webhook implementation that gets JSON Wikipedia extracts for api.ai.
